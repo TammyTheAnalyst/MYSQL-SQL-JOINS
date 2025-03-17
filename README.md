@@ -30,7 +30,7 @@ Each screenshot provides a visual of the process, from writing the SQL commands 
 ![](https://github.com/TammyTheAnalyst/MYSQL-SQL-JOINS/blob/main/Screenshot%20(4381).png)
 ![](https://github.com/TammyTheAnalyst/MYSQL-SQL-JOINS/blob/main/Screenshot%20(4382).png)
 
-# This screenshot shows a LEFT JOIN retrieves all rows from the left table and matching rows from the right table.
+# These screenshots show a LEFT JOIN retrieves all rows from the left table and matching rows from the right table.
 ![](https://github.com/TammyTheAnalyst/MYSQL-SQL-JOINS/blob/main/Screenshot%20(4383).png)
 ![](https://github.com/TammyTheAnalyst/MYSQL-SQL-JOINS/blob/main/Screenshot%20(4384).png)
 
